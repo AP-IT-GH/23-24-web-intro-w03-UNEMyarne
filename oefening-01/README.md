@@ -28,5 +28,9 @@
 ## 💡 vragen
 
 - Waarvoor dient het `controls`-attribute?
+hierbij kan je opties geven voor de video bv autoplay -> hierdoor speelt de video vanzelf
+of kan je bijvoorbeeld sommige controls toevoegen
 - Waarvoor staat de `source`-element?
+de source element verwijst naar waar de video kan worden teruggevonden
 - Wanneer gebruik je meerdere `source`-elementen?
+bij een video bijvoorbeeld omdat sommige browsers bijvoorbeeld geen mp4 inladen en dan kan je een ander bestandstype toevoegen als backup

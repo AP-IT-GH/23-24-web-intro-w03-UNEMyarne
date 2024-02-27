@@ -18,3 +18,4 @@
 ## 💡 vragen
 
 - Wat is het verschil tussen de elementen `th` en `td`?
+th is de table head dus wat bovenaanstaat en table data is wat erin staat
